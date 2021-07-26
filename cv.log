@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018/W32TeX)  (format=lualatex 2019.2.6)  15 JUN 2021 12:12
+This is LuaTeX, Version 1.07.0 (TeX Live 2018/W32TeX)  (format=lualatex 2019.2.6)  26 JUL 2021 20:15
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.233 seconds
+luaotfload | main : initialization completed in 0.406 seconds
 (./documentMETADATA.cls
 Document Class: documentMETADATA 2018/07/19 v1.9.2 'YAAC: Another Awesome CV' Cl
 ass
@@ -1364,15 +1364,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
  (./cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 51.
+Package rerunfilecheck Info: File `cv.out' has not changed.
+(rerunfilecheck)             Checksum: 2A6ED28B799D26769FAC3E432C252DAD;456.
 
-
-Package rerunfilecheck Warning: File `cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv.out':
-(rerunfilecheck)             Before: AFEF2DAF627625ED97A311F3E93D2C3D;458
-(rerunfilecheck)             After:  2A6ED28B799D26769FAC3E432C252DAD;456.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1380,18 +1374,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  34645 strings out of 494383
- 195323,953878 words of node,token memory allocated
- 49018 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 49 glue, 3 kern, 1 penalty, 6421 glyph, 1387 attrib
+ 195321,953878 words of node,token memory allocated
+ 49088 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 49 glue, 3 kern, 1 penalty, 6431 glyph, 1387 attrib
 ute, 70 glue_spec, 232 attribute_list, 1 write nodes
-   avail lists: 1:14,2:15323,3:2925,4:258,5:1110,6:135,7:8680,8:368,9:1024,10:14
+   avail lists: 1:17,2:15323,3:2925,4:258,5:1110,6:135,7:8680,8:368,9:1024,10:14
 ,11:660
  37736 multiletter control sequences out of 65536+600000
  70 fonts using 11074743 bytes
  62i,12n,87p,1190b,944s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/texlive/2018/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><.
 /fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-Light.otf>
-Output written on cv.pdf (3 pages, 647522 bytes).
+Output written on cv.pdf (3 pages, 647534 bytes).
 
 PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream
